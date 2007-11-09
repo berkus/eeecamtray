@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+	<qresource>
+		<file>CameraOn.png</file>
+		<file>CameraOff.png</file>
+		<file>Quit.png</file>
+	</qresource>
+</RCC>
